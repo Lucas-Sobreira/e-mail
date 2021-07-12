@@ -1,0 +1,27 @@
+.titulo{
+    color: blue;
+    font-size: 40px;
+}
+
+.imagem{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px
+    margin-top: 5em;
+}
+
+.logo{
+    height: 175px;
+}
+
+.form{
+    margin: 0 auto;
+}
+
+.form-label{
+    font-size: 30px;
+}
+
+.botao{
+    font-size: 17px;
+}
