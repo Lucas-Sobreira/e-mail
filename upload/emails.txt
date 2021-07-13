@@ -1,0 +1,8 @@
+usuario;email
+Lucas;lucas-andrade2020@outlook.com
+Joao;lucas-andrade2020@outlook.com
+Carlos;lucas-andrade2020@outlook.com
+Andre;lucas-andrade2020@outlook.com
+Ana;lucas-andrade2011@live.com
+Samanta;lucas-andrade2011@live.com
+
