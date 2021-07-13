@@ -1,1 +1,1 @@
-web: streamlit run app.py
+web: emarketing run app.py
